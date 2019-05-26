@@ -1,0 +1,26 @@
+body {
+  min-height: 75rem;
+  color: #5a5a5a;
+  height: 100%;
+  background-size: 100%;
+  padding-top: 70px;
+}
+header{
+  text-align: center;
+}
+p{
+    text-indent: 30px;
+    line-height: 40px;
+}
+#EyEasy{
+  width: 800px;
+  height: 200px;
+}
+#EyEasyicon{
+  width: 700px;
+  height: 700px;
+}
+#flog{
+  width: 700px;
+  height: 700px;
+}
